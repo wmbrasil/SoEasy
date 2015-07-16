@@ -12,7 +12,7 @@ namespace SoEasyTest
         {
             string text = "banana abacaxi morango chocolate";
 
-            string between = text.Between("banana", "chocolate");
+            string between = text.Between("banana", "chocolate"); 
         }
     }
 }
